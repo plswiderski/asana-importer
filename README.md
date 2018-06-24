@@ -1,3 +1,5 @@
+This project is deprecated. Use [AsanaExporter](https://github.com/pablo127/asanaexporter) instead.
+
 # Build project
 `gradlew build fatjar`
 
